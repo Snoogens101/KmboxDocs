@@ -1,0 +1,3 @@
+kmNet.pyd与调用的py文件放在同一个目录下
+
+直接import kmNet就可以使用里面的api
